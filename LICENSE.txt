@@ -1,0 +1,14 @@
+ProTutors Online WordPress theme — GPL-2.0-or-later
+
+This theme's original PHP, JavaScript, CSS, SVG, and starter content may be used,
+modified, and redistributed under the GNU General Public License version 2 or,
+at your option, any later version.
+
+The theme is provided without warranty, including implied warranties of
+merchantability or fitness for a particular purpose.
+
+Full licence: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+
+WordPress and Elementor are separate projects and are not bundled.
+Fonts are loaded from Google Fonts; no font files or stock photographs are bundled.
+No rights in third-party trademarks, logos, or brand names are granted.
